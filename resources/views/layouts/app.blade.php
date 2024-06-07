@@ -50,10 +50,10 @@
                         <li><a href="{{ route('publishers') }}">Publishers</a></li>
                         <li><a href="{{ route('categories') }}">Categories</a></li>
                         <li><a href="{{ route('books') }}">Books</a></li>
-                        <li><a href="{{ route('students') }}">Reg Students</a></li>
+                        <!-- <li><a href="{{ route('students') }}">Reg Students</a></li>
                         <li><a href="{{ route('book_issued') }}">Book Issue</a></li>
                         <li><a href="{{ route('reports') }}">Reports</a></li>
-                        <li><a href="{{ route('settings') }}">Settings</a></li>
+                        <li><a href="{{ route('settings') }}">Settings</a></li> -->
                     </ul>
                 </div>
             </div>

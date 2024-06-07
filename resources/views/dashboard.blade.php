@@ -40,22 +40,22 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <!-- <div class="col-md-3">
                     <div class="card" style="width: 14rem; margin: 0 auto;">
                         <div class="card-body text-center">
                             <p class="card-text">{{ $students }}</p>
                             <h5 class="card-title mb-0">Register Students</h5>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-3">
+                </div> -->
+                <!-- <div class="col-md-3">
                     <div class="card" style="width: 14rem; margin: 0 auto;">
                         <div class="card-body text-center">
                             <p class="card-text">{{ $issued_books }}</p>
                             <h5 class="card-title mb-0">Book Issued</h5>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
